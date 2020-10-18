@@ -6,3 +6,5 @@ Các chức năng chính của phần mềm bao gồm:
   4. Tra cứu, thêm xoá sửa các thông tin trong hệ thống như thông tin phòng, khách hàng, nhân viên, hoá đơn, ...
   5. Lập các báo cáo thống kê doanh thu của khách sạn theo các tiêu chí tuỳ chỉnh. 
   6. Đăng nhập, đăng xuất hệ thống, phân quyền người dùng.
+  
+  ![alt text](https://github.com/17520605/Hotel-Management/blob/main/Library.PNG?raw=true)
