@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="6bf36337771b444a92b34745f621450a" Name="Diagram1">
+      <Diagram DiagramId="6bf36337771b444a92b34745f621450a" Name="Diagram1" ZoomLevel="81">
         <EntityTypeShape EntityType="QLKS_IS201Model.BAOCAODICHVU" Width="1.5" PointX="0.75" PointY="11.375" IsExpanded="true" />
         <EntityTypeShape EntityType="QLKS_IS201Model.BAOCAONAM" Width="1.5" PointX="9.75" PointY="11.375" IsExpanded="true" />
         <EntityTypeShape EntityType="QLKS_IS201Model.CHITIET_HDAU" Width="1.5" PointX="7.5" PointY="7.5" IsExpanded="true" />
@@ -35,7 +35,7 @@
         <AssociationConnector Association="QLKS_IS201Model.FK_CHITIET__CHITIET_HDAU_PHONG" />
         <AssociationConnector Association="QLKS_IS201Model.FK_CHITIET__CHITIET_HDDC_PHONG" />
         <AssociationConnector Association="QLKS_IS201Model.FK_CHITIET__CHITIET_HDGU_PHONG" />
-        <EntityTypeShape EntityType="QLKS_IS201Model.KHUYENMAI" Width="1.5" PointX="10.375" PointY="0.875" />
+        <EntityTypeShape EntityType="QLKS_IS201Model.KHUYENMAI" Width="1.5" PointX="10.375" PointY="0.875" IsExpanded="true" />
         <AssociationConnector Association="QLKS_IS201Model.FK_HOADON_CO_HD_KHUYENMA" />
         <EntityTypeShape EntityType="QLKS_IS201Model.DATPHONG" Width="1.5" PointX="13.5" PointY="4.25" />
         <EntityTypeShape EntityType="QLKS_IS201Model.KHACHHANG" Width="1.5" PointX="3" PointY="3.75" />
